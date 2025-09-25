@@ -2,7 +2,7 @@
 
 Projet d’automatisation de tests en Python avec [Playwright](https://playwright.dev/python/), organisé selon le modèle **Page Object Model (POM)**.
 
-
+```bash
 ## Installation
 
 ### 1. Cloner le projet
@@ -13,9 +13,11 @@ cd Login-Credentials
 
 ### 2. Créer et activer un environnement virtuel
 python -m venv venv
-# Windows PowerShell
+
+### - Windows PowerShell
 .\venv\Scripts\activate
-# Linux/Mac
+
+### - Linux/Mac
 source venv/bin/activate
 
 ### 3. Créer et activer un environnement virtuel
